@@ -7,24 +7,6 @@
 <keypad>
 
 <function1>
-{p}>{-lshft}{0}
-{o}>{-lshft}{9}
-{i}>{-lshft}{8}
-{u}>{-lshft}{7}
-{y}>{-lshft}{6}
-{t}>{-lshft}{5}
-{r}>{-lshft}{4}
-{e}>{-lshft}{3}
-{w}>{-lshft}{2}
-{q}>{-lshft}{1}
-
-{scol}>{-lshft}{cbrk}
-{l}>{-lshft}{obrk}
-{k}>{eql}
-{j}>{hyph}
-
-{perd}>{obrk}
-{fsls}>{cbrk}
 
 <function2>
 
